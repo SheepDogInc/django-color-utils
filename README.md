@@ -1,7 +1,9 @@
 django-color-utils
 ===================
 
-Collection of color picker widgets and color database model fields for Django.
+Collection of color picker widgets and color database model fields for
+Django.   Fork of https://github.com/timchurch/django-color-utils with
+added setup file.
 
 
 Color Picker Form Widgets
